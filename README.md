@@ -35,4 +35,4 @@ Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado
 #### Entre em contato!
 [linkedin][linkedin]
 
-<code><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a=[linkedin]></code>
+<code><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a href=[linkedin]></code>
