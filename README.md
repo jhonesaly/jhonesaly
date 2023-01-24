@@ -27,6 +27,10 @@ Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+## **📊 GitHub Stats:**
+[![card](https://github-readme-stats.vercel.app/api?username=jhonesaly&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
