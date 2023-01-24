@@ -12,6 +12,7 @@ Após me formar, segui para o rumo dos concursos, fazendo uma pós-graduação e
 
 Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado brasileiro, por isso estou migrando para área de TI e busco posicionamento como desenvolvedor júnior. Tenho conhecimento da linguagem de programação python, framework django para back-end, banco de dados MySQL, uso de Git e GitHub.
 
+-------
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
