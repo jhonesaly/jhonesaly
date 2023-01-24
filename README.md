@@ -1,46 +1,24 @@
-### Hi there 👋
+### SAUDAÇÕES 👋
 
-<!--
-**jhonesaly/jhonesaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passagem pelo Exército Brasileiro em 2011 na Academia Militar das Agulhas Negras (AMAN), onde tive muito contato com liderança, trabalho em equipe, gerenciamento de pessoas, disciplina, organização, comunicação, proatividade e lidar com pressão. Fui destaque do pelotão e assinei o livro e honra por concluir o ano sem qualquer punição.
 
-Here are some ideas to get you started:
+Segui para o chamado das exatas, me formado em engenharia mecânica pela Universidade de Brasília (UnB), onde tive muitos conhecimentos técnicos, mas principalmente, cálculo, estatística e como aprender qualquer habilidade. Me formei em 2018, sem reprovar qualquer matéria, e com rendimento acadêmico (IRA) acima de 4.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Realizei iniciação científica em um projeto em colaboração com a Polícia Federal que me deu bastante conhecimento sobre metodologia científica, documentação e planilhas.
 
-### Oie devs 👋
+Passagem pela empresa júnior de engenharia mecânica da UnB (TECMEC), onde tive contato com gerenciamento de projetos, empreendedorismo e noções de marketing e administração. Trainee destaque do processo seletivo de 2014, promovido a diretor de RH e recebendo prêmio de melhor diretor pela votação dos colaboradores.
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Após me formar, segui para o rumo dos concursos, fazendo uma pós-graduação em segurança pública, onde adquiri uma boa noção do funcionamento do Estado, política e administração pública. Aprovado no concurso da Polícia Federal de 2021.
+
+Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado brasileiro, por isso estou migrando para área de TI e busco posicionamento como desenvolvedor júnior. Tenho conhecimento da linguagem de programação python, framework django para back-end, banco de dados MySQL, uso de Git e GitHub.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
-}
-```
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -55,7 +33,7 @@ object **SEU NOME** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Alyson Jhones** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
@@ -65,10 +43,6 @@ object **SEU NOME** {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
+#### Entre em contato!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin]https://www.linkedin.com/in/alyson-jhones-539767121/[linkedin]
