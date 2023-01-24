@@ -1,4 +1,6 @@
-### SAUDAÇÕES 👋
+### SOBRE 
+
+Saudações! 👋
 
 Passagem pelo Exército Brasileiro em 2011 na Academia Militar das Agulhas Negras (AMAN), onde tive muito contato com liderança, trabalho em equipe, gerenciamento de pessoas, disciplina, organização, comunicação, proatividade e lidar com pressão. Fui destaque do pelotão e assinei o livro e honra por concluir o ano sem qualquer punição.
 
@@ -32,6 +34,7 @@ Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado
 
 [![card](https://github-readme-stats.vercel.app/api?username=jhonesaly&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![jhonesaly](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhonesaly&theme=default&hide_border=false)
 
 
 
