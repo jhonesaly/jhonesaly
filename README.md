@@ -17,7 +17,6 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /> </p>
 
 -------
-# <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
