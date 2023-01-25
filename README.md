@@ -34,8 +34,10 @@ Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado
 
 ## **📊 GitHub Stats:**
 
-[![card ](https://github-readme-stats.vercel.app/api?username=jhonesaly&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=jhonesaly&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly)](https://git.io/streak-stats)
+
 [![jhonesaly](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
