@@ -1,18 +1,18 @@
 ### SOBRE 
 
-Saudações! 👋
+Greetings! 👋
 
-Passagem pelo Exército Brasileiro em 2011 na Academia Militar das Agulhas Negras (AMAN), onde tive muito contato com liderança, trabalho em equipe, gerenciamento de pessoas, disciplina, organização, comunicação, proatividade e lidar com pressão. Fui destaque do pelotão e assinei o livro e honra por concluir o ano sem qualquer punição.
+Passage through the Brazilian Army in 2011 at Academia Militar das Agulhas Negras (AMAN), where I had a lot of contact with leadership, teamwork, people management, discipline, organization, communication, proactivity and dealing with pressure. I was highlighted in the platoon and signed the book of honor for completing the year without any punishment.
 
-Segui para o chamado das exatas, me formado em engenharia mecânica pela Universidade de Brasília (UnB), onde tive muitos conhecimentos técnicos, mas principalmente, cálculo, estatística e como aprender qualquer habilidade. Me formei em 2018, sem reprovar qualquer matéria, e com rendimento acadêmico (IRA) acima de 4.
+I graduated in mechanical engineering at Universidade de Brasília (UnB), where I had a lot of technical knowledge, but mainly, calculus, statistics and how to learn any skill. I graduated in 2018, without failing any subject, and with academic performance (IRA) above 4 (of 5).
 
-Realizei iniciação científica em um projeto em colaboração com a Polícia Federal que me deu bastante conhecimento sobre metodologia científica, documentação e planilhas.
+I carried out scientific initiation in a project in collaboration with the Federal Police that gave me a lot of knowledge about scientific methodology, documents and spreadsheets.
 
-Passagem pela empresa júnior de engenharia mecânica da UnB (TECMEC), onde tive contato com gerenciamento de projetos, empreendedorismo e noções de marketing e administração. Trainee destaque do processo seletivo de 2014, promovido a diretor de RH e recebendo prêmio de melhor diretor pela votação dos colaboradores.
+Passage through the junior company of mechanical engineering at UnB (TECMEC), where I had contact with project management, entrepreneurship and notions of marketing and administration. Trainee highlighted in the 2014 selection process, promoted to HR director and receiving the award for best director by employee voting.
 
-Após me formar, segui para o rumo dos concursos, fazendo uma pós-graduação em segurança pública, onde adquiri uma boa noção do funcionamento do Estado, política e administração pública. Aprovado no concurso da Polícia Federal de 2021.
+After graduating, I followed the path of public tenders, doing a postgraduate course in public security, where I acquired a good notion of the functioning of the State, politics and public administration. Approved in the 2021 Federal Police contest.
 
-Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado brasileiro, por isso estou migrando para área de TI e busco posicionamento como desenvolvedor júnior. Tenho conhecimento da linguagem de programação python, framework django para back-end, banco de dados MySQL, uso de Git e GitHub.
+Today, I no longer intend to link my career and success to the Brazilian State, which is why I am migrating to the IT area and looking for a position as a junior developer. I have knowledge of the python programming language, Django framework for backend, MySQL database, use of Git and GitHub and others.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /> </p>
 
