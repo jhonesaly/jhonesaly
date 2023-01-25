@@ -1,4 +1,4 @@
-### SOBRE 
+### 👨‍💻 About 
 
 Greetings! 👋
 
@@ -22,7 +22,7 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-## **Linguagens e Ferramentas:**  
+## **🚀 skills:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
@@ -46,6 +46,6 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 [linkedin]: https://www.linkedin.com/in/alyson-jhones-539767121/
 <br>
 
-## Entre em contato!
+## **✉️ Contact Me!**
 
 <code><a href="https://www.linkedin.com/in/alyson-jhones-539767121/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
