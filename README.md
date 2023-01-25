@@ -34,8 +34,6 @@ Hoje não tenho mais a pretensão de vincular minha carreira e sucesso ao Estado
 
 ## **📊 GitHub Stats:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonesaly&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Jhones's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly)](https://github.com/anuraghazra/github-readme-stats)
