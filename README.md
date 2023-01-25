@@ -36,7 +36,7 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 
 ![Jhones's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly)](https://git.io/streak-stats)
 
