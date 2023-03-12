@@ -1,4 +1,4 @@
-### 👨‍💻 About 
+# 👨‍💻 About 
 
 Greetings! 👋
 
@@ -14,37 +14,49 @@ After graduating, I followed the path of public tenders, doing a postgraduate co
 
 Today, I no longer intend to link my career and success to the Brazilian State, which is why I am migrating to the IT area and looking for a position as a junior developer. I have knowledge of the python programming language, Django framework for backend, MySQL database, use of Git and GitHub and others.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /> </p>
+## **✉️ Contact Me!**
+
+<code><a href="https://www.linkedin.com/in/alyson-jhones-539767121/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
 
 -------
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-## **🚀 skills:**  
+### **💻 OS**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+"></code>
+<code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+"></code>
+<code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+"></code>
+
+### **🚀 skills:**  
+
+<code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
+
+### **⚡ Database**
+
+<code><img height="30" src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+
+------
 
 ## **📊 GitHub Stats:**
 
-![Jhones's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=default)
+![Jhones's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://wakatime.com/@jhonesaly">
+    <img src="https://wakatime.com/share/@jhonesaly/ff80a221-b464-470c-99df-f9a03ba3077e.svg" height="370"/>
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/alyson-jhones-539767121/
-<br>
-
-## **✉️ Contact Me!**
-
-<code><a href="https://www.linkedin.com/in/alyson-jhones-539767121/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /></p>
