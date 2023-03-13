@@ -37,7 +37,7 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 
 ### **⚡ Database**
 
-<code><img height="30" src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 ------
 
@@ -45,13 +45,13 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 
 ![Jhones's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact&theme=tokyonight)
 
 <a href="https://wakatime.com/@jhonesaly">
     <img src="https://wakatime.com/share/@jhonesaly/ff80a221-b464-470c-99df-f9a03ba3077e.svg" height="370"/>
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
 
 [![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
