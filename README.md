@@ -12,13 +12,17 @@ Passage through the junior company of mechanical engineering at UnB (TECMEC), wh
 
 After graduating, I followed the path of public tenders, doing a postgraduate course in public security, where I acquired a good notion of the functioning of the State, politics and public administration. Approved in the 2021 Federal Police contest.
 
-Today, I no longer intend to link my career and success to the Brazilian State, which is why I am migrating to the IT area and looking for a position as a junior developer. I have knowledge of the python programming language, Django framework for backend, MySQL database, use of Git and GitHub and others.
+Today, I no longer intend to link my career and success to the Brazilian State, which is why I am migrating to the IT area and looking for a position as a junior developer.
+
+I have knowledge of the Python programming language, Django framework for backend, MySQL database, Git and GitHub, Linux as server, Shell script for Infrastructures as Code, containers creation and orchestration with Docker, basic of AWS, and others.
 
 ## **✉️ Contact Me!**
 
 <code><a href="https://www.linkedin.com/in/alyson-jhones-539767121/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
 
 -------
+
+## **📚 STACK**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -29,15 +33,19 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 
-### **🚀 skills:**  
+### **🚀 Skills**  
 
 <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
 
 ### **⚡ Database**
 
 <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 
 ------
 
@@ -56,4 +64,4 @@ Today, I no longer intend to link my career and success to the Brazilian State, 
 [![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /></p>
