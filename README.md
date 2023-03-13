@@ -51,17 +51,11 @@ I have knowledge of the Python programming language, Django framework for backen
 
 ## **📊 GitHub Stats:**
 
-![Jhones's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=tokyonight)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonesaly&show_icons=true&theme=tokyonight" alt="Jhones's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact&theme=tokyonight" /></a> |
+| ------------- | ------------- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact&theme=tokyonight)
-
-<a href="https://wakatime.com/@jhonesaly">
-    <img src="https://wakatime.com/share/@jhonesaly/ff80a221-b464-470c-99df-f9a03ba3077e.svg" height="370"/>
-</a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
-
-[![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" /></a> | <a href="https://wakatime.com/@jhonesaly"><img align="center" src="https://wakatime.com/share/@jhonesaly/ff80a221-b464-470c-99df-f9a03ba3077e.svg" height="370" /></a> |
+| ------------- | ------------- |
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /></p>
