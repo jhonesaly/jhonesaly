@@ -61,6 +61,6 @@ I have knowledge of the Python programming language, Django framework for backen
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
 
-[![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)
+![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /></p>
