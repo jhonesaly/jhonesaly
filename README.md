@@ -57,12 +57,4 @@ I have knowledge of the Python programming language, Django framework for backen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonesaly&layout=compact&theme=tokyonight)
 
-<a href="https://wakatime.com/@jhonesaly">
-    <img src="https://wakatime.com/share/@jhonesaly/d7b8ea7c-2d86-4ee8-be4d-cfbd977762db.svg" height="370"/>
-</a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonesaly&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
-
-![Jhones's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonesaly&theme=tokyo-night)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonesaly" alt="jhonesaly" /></p>
