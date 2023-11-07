@@ -10,7 +10,7 @@ I carried out scientific initiation in a project in collaboration with the Feder
 
 Passage through the junior company of mechanical engineering at UnB (TECMEC), where I had contact with project management, entrepreneurship and notions of marketing and administration. Trainee highlighted in the 2014 selection process, promoted to HR director and receiving the award for best director by employee voting.
 
-After graduating, I followed the path of public tenders, doing a postgraduate course in public security, where I acquired a good notion of the functioning of the State, politics and public administration. Approved in the 2021 Federal Police contest.
+After graduating, I followed the path of public tenders, doing a postgraduate course in public security, where I acquired a good notion of the functioning of the State, politics and public administration.
 
 Today, I no longer intend to link my career and success to the Brazilian State, which is why I am migrating to the IT area and looking for a position as a junior developer.
 
