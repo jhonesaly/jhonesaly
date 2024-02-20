@@ -12,9 +12,7 @@ Passage through the junior company of mechanical engineering at UnB (TECMEC), wh
 
 After graduating, I followed the path of public tenders, doing a postgraduate course in public security, where I acquired a good notion of the functioning of the State, politics and public administration.
 
-Today, I no longer intend to link my career and success to the Brazilian State, which is why I am migrating to the IT area and looking for a position as a junior developer.
-
-I have knowledge of the Python programming language, Django framework for backend, MySQL database, Git and GitHub, Linux as server, Shell script for Infrastructures as Code, containers creation and orchestration with Docker, basic of AWS, and others.
+I have knowledge of the Python programming language, Django framework for backend, javascript and react for frontend, MySQL database, Git and GitHub, Linux as server, Shell script for Infrastructures as Code, containers creation and orchestration with Docker, basic of AWS, and others.
 
 ## **✉️ Contact Me!**
 
