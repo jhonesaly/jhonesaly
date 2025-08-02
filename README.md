@@ -2,17 +2,9 @@
 
 Greetings! 👋
 
-Passage through the Brazilian Army in 2011 at Academia Militar das Agulhas Negras (AMAN), where I had a lot of contact with leadership, teamwork, people management, discipline, organization, communication, proactivity and dealing with pressure. I was highlighted in the platoon and signed the book of honor for completing the year without any punishment.
+My diverse background, including a period of significant leadership development and distinguished performance at the Brazilian Army's military academy, along with a rigorous Mechanical Engineering education from UnB (where I graduated with a high academic standing), has equipped me with an exceptional ability to learn rapidly, manage complex projects, and operate under pressure.
 
-I graduated in mechanical engineering at Universidade de Brasília (UnB), where I had a lot of technical knowledge, but mainly, calculus, statistics and how to learn any skill. I graduated in 2018, without failing any subject, and with academic performance (IRA) above 4 (of 5).
-
-I carried out scientific initiation in a project in collaboration with the Federal Police that gave me a lot of knowledge about scientific methodology, documents and spreadsheets.
-
-Passage through the junior company of mechanical engineering at UnB (TECMEC), where I had contact with project management, entrepreneurship and notions of marketing and administration. Trainee highlighted in the 2014 selection process, promoted to HR director and receiving the award for best director by employee voting.
-
-After graduating, I followed the path of public tenders, doing a postgraduate course in public security, where I acquired a good notion of the functioning of the State, politics and public administration.
-
-I have knowledge of the Python programming language, Django framework for backend, javascript and react for frontend, MySQL database, Git and GitHub, Linux as server, Shell script for Infrastructures as Code, containers creation and orchestration with Docker, basic of AWS, and others.
+This unique foundation underpins my current proficiency as a Full-Stack Developer. I develop robust software solutions, from designing and implementing high-performance backends with Spring Boot to crafting engaging and efficient user experiences using Angular. Furthermore, I ensure the reliability and stability of these applications through meticulous Playwright end-to-end testing, guaranteeing an excellent user experience from development to deployment.
 
 ## **✉️ Contact Me!**
 
