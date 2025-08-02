@@ -2,6 +2,8 @@
 
 Greetings! 👋
 
+My work is maintened in gitlab, so this page doesn't reflect my activity, unfortunately.
+
 My diverse background, including a period of significant leadership development and distinguished performance at the Brazilian Army's military academy, along with a rigorous Mechanical Engineering education from UnB (where I graduated with a high academic standing), has equipped me with an exceptional ability to learn rapidly, manage complex projects, and operate under pressure.
 
 This unique foundation underpins my current proficiency as a Full-Stack Developer. I develop robust software solutions, from designing and implementing high-performance backends with Spring Boot to crafting engaging and efficient user experiences using Angular. Furthermore, I ensure the reliability and stability of these applications through meticulous Playwright end-to-end testing, guaranteeing an excellent user experience from development to deployment.
